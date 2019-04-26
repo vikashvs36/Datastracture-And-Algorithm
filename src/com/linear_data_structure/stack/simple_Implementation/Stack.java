@@ -1,4 +1,4 @@
-package linear_data_structure;
+package com.linear_data_structure.stack.simple_Implementation;
 
 import java.util.Scanner;
 
